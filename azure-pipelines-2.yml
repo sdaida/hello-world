@@ -1,5 +1,5 @@
 # Maven
-- task: TomcatDeployment@1
+- task: TomcatDeployment
   inputs:
     TomcatUrl: 'http://localhost:8080'
     Username: 'sdaida'
